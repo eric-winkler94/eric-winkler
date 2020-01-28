@@ -1,0 +1,6 @@
+User ID:123456, JC. Penney, Transaction Total:4491.7, Total amount of Transactions:12, Total amount of credits:0, Total count of credits:0
+User ID:345678, Walmart Superstore, Transaction Total:180.6, Total amount of Transactions:2, Total amount of credits:0, Total count of credits:0
+User ID:456789, Midnight Entertainment, Transaction Total:5311.75, Total amount of Transactions:12, Total amount of credits:25.0, Total count of credits:1
+User ID:678912, Albertson, Transaction Total:149.89, Total amount of Transactions:3, Total amount of credits:0, Total count of credits:0
+User ID:789123, Beadion's Pizza Pub, Transaction Total:3286.63, Total amount of Transactions:15, Total amount of credits:10.0, Total count of credits:1
+User ID:912345, QVC Enterprises, Transaction Total:3983.99, Total amount of Transactions:11, Total amount of credits:159.95, Total count of credits:3

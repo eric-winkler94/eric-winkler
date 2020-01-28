@@ -1,0 +1,7 @@
+123456,JC. Penney
+345678,Walmart Superstore
+456789,Midnight Entertainment
+678912,Albertson
+789123,Beadion's Pizza Pub
+912345,QVC Enterprises
+914789,Dillards Stores

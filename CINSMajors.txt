@@ -1,0 +1,6 @@
+214, Davis, Kimberly, 3.4
+315, Thompson, Hunter, 2.9
+319, Harris, Michael, 2.3
+320, Nichols, Matthew, 3.5
+322, Pohler, Geoffrey, 4.0
+412, Max, Manfreid, 3.2
